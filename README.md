@@ -45,7 +45,7 @@ git clone https://github.com/SHIKEAIXY/zhenxun-wallpaper-picture
 3.  壁纸部分图片具体作者不祥（可能有ai绘图）
 4.  本仓库图片格式为png/gif
 5.  本仓库图片过多会出现奇怪/重复的图 请见谅（慢慢的会一点一点删掉奇怪的图）
-6.  动图由于edge的扩展下载后自动转为图片所以无法显示 需要的可以[点此处有1-12集的动图自行下载](https://www.bilibili.com/read/cv20747577) 
+6.  动图由于edge的扩展下载后自动转为图片所以无法显示（我的问题） 需要的可以[点此处有1-12集的动图自行下载](https://www.bilibili.com/read/cv20747577) 
 
 # 持续更新中 咕咕咕...
 
