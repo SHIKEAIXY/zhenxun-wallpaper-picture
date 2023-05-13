@@ -41,10 +41,11 @@ git clone https://github.com/SHIKEAIXY/zhenxun-wallpaper-picture
 #### 使用说明
 
 1.  使用clone下载本仓库即可
-2.  本仓库内的图来自[b站搜集](https://bilibili.com) 与 [度娘](https://baidu.com) 和最重要的[堆糖app的香辣脆皮小星星大佬](https://www.duitang.com/people/?id=1705780019) 给大佬点点免费的关注 
-3.  壁纸具体作者不祥（可能有ai绘图）
+2.  本仓库内的图来自[b站搜集](https://www.bilibili.com/read/cv20747577) 与 [度娘](https://baidu.com) 和最重要的[堆糖app的香辣脆皮小星星大佬](https://www.duitang.com/people/?id=1705780019) 给大佬点点免费的关注 
+3.  壁纸部分图片具体作者不祥（可能有ai绘图）
 4.  本仓库图片格式为png/gif
 5.  本仓库图片过多会出现奇怪/重复的图 请见谅（慢慢的会一点一点删掉奇怪的图）
+6.  动图由于edge的扩展下载后自动转为图片所以无法显示 需要的可以[点此处有1-12集的动图自行下载](https://www.bilibili.com/read/cv20747577) 
 
 # 持续更新中 咕咕咕...
 
