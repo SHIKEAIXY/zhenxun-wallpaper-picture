@@ -38,6 +38,9 @@ git clone https://gitee.com/SHIKEAIXY/zhenxun-wallpaper-picture
 git clone https://github.com/SHIKEAIXY/zhenxun-wallpaper-picture
 ```
 
+2.  网盘下载
+https://share.weiyun.com/a6qWagP7
+
 #### 使用说明
 
 1.  使用clone下载本仓库即可
