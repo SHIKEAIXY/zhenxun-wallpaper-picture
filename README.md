@@ -38,7 +38,7 @@ git clone https://gitee.com/SHIKEAIXY/zhenxun-wallpaper-picture
 git clone https://github.com/SHIKEAIXY/zhenxun-wallpaper-picture
 ```
 
-3.  网盘下载
+3.  网盘下载（慢的要死 不会真有人用吧！）
 
 https://share.weiyun.com/a6qWagP7
 
