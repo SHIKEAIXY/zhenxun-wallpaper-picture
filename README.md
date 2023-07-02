@@ -29,7 +29,7 @@
 1.  gitee下载
 
 ```
-git clone https://gitee.com/SHIKEAIXY/zhenxun-wallpaper-picture
+    git clone git@gitee.com:SHIKEAIXY/zhenxun-wallpaper-picture.git
 ```
 
 2.  github下载
