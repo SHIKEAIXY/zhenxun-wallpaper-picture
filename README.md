@@ -2,7 +2,7 @@
   <img src="仓库图片/可爱.png" alt="欧尼酱" width = "600">
 
   
-<h1>一个`别当欧尼酱了`的番剧 壁纸/头像表情包仓库 高达近2000张</h1>
+<h1>一个`别当欧尼酱了`的番剧 壁纸/头像表情包仓库 高达近 * 张</h1>
 
 </div>
 <div align="center">
@@ -22,7 +22,10 @@
 #### 介绍
 
 一个真寻的壁纸图片仓库
+
 嗯！就这样
+
+对了 有点大下载会很慢！会很慢！会很慢！
 
 #### 安装教程
 
@@ -38,18 +41,13 @@
 git clone https://github.com/SHIKEAIXY/zhenxun-wallpaper-picture
 ```
 
-3.  网盘下载（慢的要死 不会真有人用吧！）
-
-https://share.weiyun.com/a6qWagP7
-
 #### 使用说明
 
 1.  使用clone下载本仓库即可
 2.  本仓库内的图来自[b站搜集](https://www.bilibili.com/read/cv20747577) 与 [度娘](https://baidu.com) 和最重要的[堆糖app的香辣脆皮小星星大佬](https://www.duitang.com/people/?id=1705780019) 给大佬点点免费的关注 
 3.  壁纸部分图片具体作者不祥（可能有ai绘图）
-4.  本仓库图片格式为png/gif
+4.  本仓库图片格式为jpg/gif
 5.  本仓库图片过多会出现奇怪/重复的图 请见谅（慢慢的会一点一点删掉奇怪的图）
-6.  动图由于edge的扩展下载后自动转为图片所以无法显示（我的问题） 需要的可以[点此处有1-12集的动图自行下载](https://pan.baidu.com/s/16MZGQxNCcOKXtVdQxXOHXg?pwd=d9oy ) 稍微有点乱 毕竟是别人的 后面我会整理出一个新的
 
 # 持续更新中 咕咕咕...
 
