@@ -32,13 +32,13 @@
 1.  gitee下载
 
 ```
-git clone git@gitee.com:SHIKEAIXY/zhenxun-wallpaper-picture.git
+git clone https://gitee.com/SHIKEAIXY/zhenxun-wallpaper-picture.git
 ```
 
 2.  github下载
 
 ```
-git clone https://github.com/SHIKEAIXY/zhenxun-wallpaper-picture
+git clone --depth 1 https://github.com/SHIKEAIXY/zhenxun-wallpaper-picture
 ```
 
 #### 使用说明
