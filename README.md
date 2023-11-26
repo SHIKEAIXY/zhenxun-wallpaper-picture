@@ -29,17 +29,17 @@
 
 #### 安装教程
 
-1.  gitee下载
+1. 图片下载
 
 ```
-git clone https://gitee.com/SHIKEAIXY/zhenxun-wallpaper-picture.git
+//番剧截图（分）
+git clone --depth 1 -b Episode https://gitee.com/SHIKEAIXY/zhenxun-wallpaper-picture.git
+```
+```
+//番剧截图（合）可能很多图有问题，但是比分图多很多
+git clone --depth 1 -b Collection https://gitee.com/SHIKEAIXY/zhenxun-wallpaper-picture.git
 ```
 
-2.  github下载
-
-```
-git clone --depth 1 https://github.com/SHIKEAIXY/zhenxun-wallpaper-picture
-```
 
 #### 使用说明
 
@@ -48,7 +48,7 @@ git clone --depth 1 https://github.com/SHIKEAIXY/zhenxun-wallpaper-picture
 3.  壁纸的部分图片具体作者不祥（可能有ai绘图）
 4.  本仓库图片大部分格式为jpg/gif
 5.  本仓库图片可能会出现奇怪/重复的图 请见谅
-6.  这里强烈建议使用`番剧截图（分）`内的图片以及动图`番剧截图（合）`里面有怪图以及gif是静态的问题，懒得搞了氵
+6.  这里强烈建议使用`番剧截图（分）`内的图片以及动图，而`番剧截图（合）`里面有怪图，懒得搞了氵
 
 # 持续更新中 咕咕咕...
 
